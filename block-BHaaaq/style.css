@@ -1,0 +1,82 @@
+header {
+  
+    padding: 20px;
+    font-size: larger;
+}
+
+
+.fbox {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(178,46,37);
+    border: 10px black solid;
+    margin: 100px;
+    
+}
+
+.container1 {
+    width:1000px;
+    height:300px;
+    
+    padding-top:20px;
+    padding-left:15px;
+    padding-right:15px;
+
+}
+
+#sbox {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(178,46,37);
+    border: 10px black double;
+    margin-left: 100px;
+    
+}
+#srbox {
+    float:right;
+    background-color:yellow;
+    border: 70px black dashed;
+    width: 200px;;
+    height: 200px;
+   
+}
+
+#tbox {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(178,46,37);
+    border: 10px black dotted;
+    margin: 100px;
+}
+
+#trbox {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(178,46,37);
+    border: 10px black dotted;
+    margin: 100px;
+}
+
+.bg {
+    background-color: blueviolet;
+    border-top: black solid 30px;
+    border-bottom: springgreen solid 30px;
+    border-left: teal solid 30px;
+    border-right: turquoise solid 30px;  
+    width: 800px;
+    height: 1000px;
+}
+.bg p{
+    font-size: xx-large;   
+    padding: 20px;
+    color: white;
+}
+
+sbg {
+    background-color: red;
+    border-top: black;
+    width: 800px;
+    height: 1000px;
+    padding: 50px;
+}
