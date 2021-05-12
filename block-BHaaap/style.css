@@ -1,0 +1,25 @@
+h1 {
+    background-color: #D18C1D;
+    padding: 10px;
+    border: 1px red solid;
+}
+
+.circle{
+    border-radius: 90%;
+    background-color: red;
+    box-shadow: black;
+}
+
+p {
+    width: 600px;
+    height: 400px;
+    border: 2px black dotted;
+    background-color: #D1D631;
+}
+
+a{
+    border: 3px blue dashed;
+    background-color: #A1A1A1;
+}
+
+
